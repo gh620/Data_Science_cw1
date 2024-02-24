@@ -1,0 +1,186 @@
+Cancer id,Ranking,Population code (ISO/UN),Population,Alpha‑3 code,Sex,Type,ASR (World) per 100 000
+20,1,250,France (metropolitan),FRA,0,0,106.36
+20,2,196,Cyprus,CYP,0,0,105.4
+20,3,056,Belgium,BEL,0,0,105.18
+20,4,528,The Netherlands,NLD,0,0,102.26
+20,5,036,Australia,AUS,0,0,101.47
+20,6,442,Luxembourg,LUX,0,0,99.7
+20,7,840,United States of America,USA,0,0,96.71
+20,8,578,Norway,NOR,0,0,96.1
+20,9,208,Denmark,DNK,0,0,96.03
+20,10,826,United Kingdom,GBR,0,0,94.56
+20,11,554,New Zealand,NZL,0,0,94.36
+20,12,246,Finland,FIN,0,0,92.85
+20,13,372,Ireland,IRL,0,0,92.12
+20,14,540,New Caledonia,NCL,0,0,90.18
+20,15,620,Portugal,PRT,0,0,89.55
+20,16,124,Canada,CAN,0,0,89.18
+20,17,882,Samoa,WSM,0,0,88.75
+20,18,380,Italy,ITA,0,0,87.86
+20,19,470,Malta,MLT,0,0,87.39
+20,20,300,Greece,GRC,0,0,83.34
+20,21,705,Slovenia,SVN,0,0,82.68
+20,22,752,Sweden,SWE,0,0,81.94
+20,23,724,Spain,ESP,0,0,81.7
+20,24,376,Israel,ISR,0,0,78.74
+20,25,276,Germany,DEU,0,0,78.16
+20,26,756,Switzerland,CHE,0,0,78.13
+20,27,348,Hungary,HUN,0,0,77.68
+20,28,474,"France, Martinique",MTQ,0,0,77.16
+20,29,499,Montenegro,MNE,0,0,77.08
+20,30,191,Croatia,HRV,0,0,75.43
+20,31,858,Uruguay,URY,0,0,75.05
+20,32,392,Japan,JPN,0,0,74.39
+20,33,203,Czechia,CZE,0,0,73.12
+20,34,702,Singapore,SGP,0,0,72.61
+20,35,352,Iceland,ISL,0,0,72.23
+20,36,258,French Polynesia,PYF,0,0,71.91
+20,37,032,Argentina,ARG,0,0,71.32
+20,38,388,Jamaica,JAM,0,0,71.12
+20,39,040,Austria,AUT,0,0,70.36
+20,40,642,Romania,ROU,0,0,70.2
+20,41,703,Slovakia,SVK,0,0,67.78
+20,42,312,"France, Guadeloupe",GLP,0,0,66.41
+20,43,616,Poland,POL,0,0,66.34
+20,44,428,Latvia,LVA,0,0,66.24
+20,45,807,North Macedonia,MKD,0,0,65.55
+20,46,044,Bahamas,BHS,0,0,64.64
+20,47,233,Estonia,EST,0,0,63.3
+20,48,076,Brazil,BRA,0,0,63.12
+20,49,440,Lithuania,LTU,0,0,62.89
+20,50,630,Puerto Rico,PRI,0,0,62.32
+20,51,012,Algeria,DZA,0,0,61.87
+20,52,688,Serbia,SRB,0,0,61.8
+20,53,410,"Korea, Republic of",KOR,0,0,61.48
+20,54,608,Philippines,PHL,0,0,60.34
+20,55,242,Fiji,FJI,0,0,60.26
+20,56,400,Jordan,JOR,0,0,59.99
+20,57,048,Bahrain,BHR,0,0,58.49
+20,58,504,Morocco,MAR,0,0,58.37
+20,58,600,Paraguay,PRY,0,0,58.37
+20,60,643,Russian Federation,RUS,0,0,58.08
+20,61,422,Lebanon,LBN,0,0,57.89
+20,62,052,Barbados,BRB,0,0,57.74
+20,63,784,United Arab Emirates,ARE,0,0,57.05
+20,64,368,Iraq,IRQ,0,0,56.91
+20,65,112,Belarus,BLR,0,0,56.89
+20,66,638,"France, La Réunion",REU,0,0,55.94
+20,67,254,French Guyana,GUF,0,0,55.71
+20,68,818,Egypt,EGY,0,0,55.4
+20,69,780,Trinidad and Tobago,TTO,0,0,54
+20,70,516,Namibia,NAM,0,0,53.93
+20,71,100,Bulgaria,BGR,0,0,53.5
+20,72,214,Dominican Republic,DOM,0,0,53.39
+20,73,070,Bosnia Herzegovina,BIH,0,0,52.89
+20,74,480,Mauritius,MUS,0,0,52.68
+20,75,328,Guyana,GUY,0,0,52.6
+20,76,008,Albania,ALB,0,0,51.97
+20,77,662,Saint Lucia,LCA,0,0,51.68
+20,78,566,Nigeria,NGA,0,0,51.5
+20,79,170,Colombia,COL,0,0,50.7
+20,80,096,Brunei Darussalam,BRN,0,0,50.16
+20,81,414,Kuwait,KWT,0,0,49.83
+20,82,090,Solomon Islands,SLB,0,0,49.18
+20,83,268,Georgia,GEO,0,0,49.04
+20,84,710,South Africa,ZAF,0,0,48.72
+20,85,120,Cameroon,CMR,0,0,48.64
+20,86,192,Cuba,CUB,0,0,47.24
+20,87,498,Moldova,MDA,0,0,47.17
+20,88,862,Venezuela,VEN,0,0,47.1
+20,89,792,Türkiye,TUR,0,0,46.77
+20,90,084,Belize,BLZ,0,0,46.75
+20,91,740,Suriname,SUR,0,0,46.38
+20,92,275,Gaza Strip and West Bank,PSE,0,0,46.33
+20,93,760,Syrian Arab Republic,SYR,0,0,46.21
+20,94,458,Malaysia,MYS,0,0,46.09
+20,95,598,Papua New Guinea,PNG,0,0,46.03
+20,96,384,"Côte d'Ivoire",CIV,0,0,45.44
+20,97,316,Guam,GUM,0,0,44.15
+20,98,804,Ukraine,UKR,0,0,43.37
+20,99,360,Indonesia,IDN,0,0,41.78
+20,100,591,Panama,PAN,0,0,41.39
+20,101,226,Equatorial Guinea,GNQ,0,0,40.99
+20,102,231,Ethiopia,ETH,0,0,40.81
+20,103,404,Kenya,KEN,0,0,40.77
+20,104,288,Ghana,GHA,0,0,40.19
+20,105,484,Mexico,MEX,0,0,39.94
+20,105,729,Sudan,SDN,0,0,39.94
+20,107,462,Maldives,MDV,0,0,39.84
+20,108,222,El Salvador,SLV,0,0,39.65
+20,109,051,Armenia,ARM,0,0,39.61
+20,110,218,Ecuador,ECU,0,0,39.46
+20,111,604,Peru,PER,0,0,39.3
+20,112,634,Qatar,QAT,0,0,39.03
+20,113,706,Somalia,SOM,0,0,38.62
+20,114,152,Chile,CHL,0,0,38.23
+20,115,262,Djibouti,DJI,0,0,38.06
+20,116,704,Viet Nam,VNM,0,0,37.96
+20,117,232,Eritrea,ERI,0,0,37.78
+20,118,466,Mali,MLI,0,0,37.73
+20,119,140,Central African Republic,CAF,0,0,37.72
+20,120,188,Costa Rica,CRI,0,0,37.53
+20,121,764,Thailand,THA,0,0,37.44
+20,122,398,Kazakhstan,KAZ,0,0,36.94
+20,123,266,Gabon,GAB,0,0,36.41
+20,124,788,Tunisia,TUN,0,0,36.16
+20,125,716,Zimbabwe,ZWE,0,0,35.84
+20,126,558,Nicaragua,NIC,0,0,35.32
+20,127,478,Mauritania,MRT,0,0,34.54
+20,128,586,Pakistan,PAK,0,0,34.23
+20,129,512,Oman,OMN,0,0,33.96
+20,130,430,Liberia,LBR,0,0,33.57
+20,131,156,China,CHN,0,0,33.38
+20,132,204,Benin,BEN,0,0,33.26
+20,133,768,Togo,TGO,0,0,32.93
+20,134,031,Azerbaijan,AZE,0,0,32.9
+20,135,408,"Korea, Democratic People Republic of",PRK,0,0,32.25
+20,136,418,"Lao People's Democratic Republic",LAO,0,0,31.63
+20,137,795,Turkmenistan,TKM,0,0,31.13
+20,138,434,Libya,LBY,0,0,30.98
+20,139,364,"Iran, Islamic Republic of",IRN,0,0,30.45
+20,140,450,Madagascar,MDG,0,0,30.32
+20,141,686,Senegal,SEN,0,0,29.89
+20,142,548,Vanuatu,VUT,0,0,29.6
+20,143,562,Niger,NER,0,0,29.46
+20,144,004,Afghanistan,AFG,0,0,29.44
+20,145,024,Angola,AGO,0,0,29.43
+20,146,320,Guatemala,GTM,0,0,28.35
+20,147,728,South Sudan,SSD,0,0,27.99
+20,148,860,Uzbekistan,UZB,0,0,27.79
+20,149,144,Sri Lanka,LKA,0,0,27.68
+20,150,340,Honduras,HND,0,0,27.28
+20,151,624,Guinea-Bissau,GNB,0,0,27.17
+20,152,178,"Congo, Republic of",COG,0,0,26.85
+20,153,068,Bolivia,BOL,0,0,26.78
+20,154,356,India,IND,0,0,26.6
+20,155,180,"Congo, Democratic People Republic of",COD,0,0,26.45
+20,156,626,Timor-Leste,TLS,0,0,26.38
+20,157,748,Eswatini,SWZ,0,0,26.17
+20,158,887,Yemen,YEM,0,0,25.35
+20,159,108,Burundi,BDI,0,0,25.32
+20,160,417,Kyrgyzstan,KGZ,0,0,25.31
+20,161,682,Saudi Arabia,SAU,0,0,25.28
+20,162,454,Malawi,MWI,0,0,25.19
+20,163,332,Haiti,HTI,0,0,25.16
+20,164,116,Cambodia,KHM,0,0,25.13
+20,165,834,"Tanzania, United Republic of",TZA,0,0,25.12
+20,166,104,Myanmar,MMR,0,0,23.41
+20,167,132,Cape Verde,CPV,0,0,23.4
+20,168,800,Uganda,UGA,0,0,23.34
+20,169,072,Botswana,BWA,0,0,23.03
+20,170,894,Zambia,ZMB,0,0,22.32
+20,171,174,Comoros,COM,0,0,21.5
+20,172,854,Burkina Faso,BFA,0,0,21.38
+20,173,678,Sao Tome and Principe,STP,0,0,19.91
+20,174,508,Mozambique,MOZ,0,0,19.69
+20,175,762,Tajikistan,TJK,0,0,19.47
+20,176,426,Lesotho,LSO,0,0,18.92
+20,177,646,Rwanda,RWA,0,0,16.2
+20,178,324,Guinea,GIN,0,0,15.95
+20,179,050,Bangladesh,BGD,0,0,15.18
+20,180,524,Nepal,NPL,0,0,14.35
+20,181,148,Chad,TCD,0,0,14.24
+20,182,496,Mongolia,MNG,0,0,12.63
+20,183,270,The Republic of the Gambia,GMB,0,0,12.12
+20,184,694,Sierra Leone,SLE,0,0,7.02
+20,185,064,Bhutan,BTN,0,0,4.56
