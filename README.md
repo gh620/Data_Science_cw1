@@ -1,6 +1,4 @@
-# dscw1
-
-Data Science Coursework 1
+# Data Science Coursework 1
 
 This project is part of the the Data Science module at Imperial College London, MSc in Statistics programme. The project aims to produce a piece of reproducible data journalism. 
 
